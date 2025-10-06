@@ -1,0 +1,22 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor-specific files
+*.swp
+*.swo
+.idea/
+.vscode/
+*.log
+
+# Ignore Node.js dependencies
+node_modules/
+dist/
+build/
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore Git metadata that shouldn't be committed manually
+.git/
