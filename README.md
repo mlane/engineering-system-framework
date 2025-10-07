@@ -49,14 +49,18 @@ Most engineering orgs include some or all of the following domains — each conn
 
 ---
 
-## 1. Principles & Direction
+## Engineering System Core
+
+The following sections define the foundation of how Engineering aligns, evolves, and shares ownership across teams.
+
+### 1. Principles & Direction
 
 > We design for security, scalability, and simplicity — not trends.
 
-This section defines the **architectural mindset** — the compass that guides decisions.  
+This section defines the **engineering mindset** — the principles that guide how we build and evolve systems.
 It focuses on clarity, maintainability, and sustainable growth.
 
-### Core Tenets
+**Core Tenets**
 
 - **Stability first, novelty second.**  
   Prioritize proven solutions that reduce friction and uncertainty.
@@ -69,7 +73,7 @@ It focuses on clarity, maintainability, and sustainable growth.
 - **Change must be justified.**  
   Adopt new tools to solve real problems — not hypothetical ones.
 
-### Decision Filters
+**Decision Filters**
 
 Before adopting a tool, process, or major shift, ask:
 
@@ -82,7 +86,7 @@ Before adopting a tool, process, or major shift, ask:
 > ✅ If three or more answers are “yes,” move forward.  
 > 🚫 Otherwise, reconsider.
 
-### Architectural Role
+**Architectural Role**
 
 - Protect system health and clarity.
 - Reduce unnecessary change.
@@ -93,7 +97,7 @@ Before adopting a tool, process, or major shift, ask:
 
 ---
 
-## 2. Initiatives & Ownership
+### 2. Initiatives & Ownership
 
 Tracks key initiatives that advance the organization’s systems, visibility, and long-term health.  
 Each initiative is tied to a clear **owner**, **purpose**, and **review cadence** — but implementation details remain flexible.
@@ -110,7 +114,7 @@ Each initiative is tied to a clear **owner**, **purpose**, and **review cadence*
 
 ---
 
-## 3. Migration Log
+### 3. Migration Log
 
 Captures significant engineering events, migrations, or unexpected issues that required architectural visibility or coordination.  
 This log helps teams understand _why_ a change happened — not just _what_ changed.
@@ -130,7 +134,7 @@ Each entry should include:
 
 ---
 
-## 4. Health & Maintenance
+### 4. Health & Maintenance
 
 Defines how organizations stay healthy over time — through maintenance, automation, and review.  
 It’s not about perfection; it’s about continuous, visible improvement.
@@ -144,7 +148,7 @@ It’s not about perfection; it’s about continuous, visible improvement.
 
 ---
 
-## 5. Visibility & Signals
+### 5. Visibility & Signals
 
 Visibility defines what we track, how we ensure signal continuity across systems and teams, and how those signals lead to timely, actionable improvement.
 
@@ -160,11 +164,11 @@ Visibility ensures that information flows from systems → people → decisions.
 
 ---
 
-## 6. Culture & Growth
+### 6. Culture & Growth
 
 Defines how learning, mentorship, and documentation work together to sustain team growth.
 
-### Product-Minded Engineering
+**Product-Minded Engineering**
 
 Every engineer should think critically about _why_ something exists, not just _how_ it’s built.
 
@@ -176,7 +180,7 @@ Every engineer should think critically about _why_ something exists, not just _h
 
 > We don’t just build code — we build systems that last.
 
-### Shared Architectural Ownership
+**Shared Architectural Ownership**
 
 Architecture is collective. Even with leads, everyone contributes to long-term structure.
 
@@ -186,7 +190,7 @@ Architecture is collective. Even with leads, everyone contributes to long-term s
 
 > Good architecture is invisible — it quietly improves velocity for everyone.
 
-### Mentorship & Onboarding
+**Mentorship & Onboarding**
 
 - Keep onboarding self-contained, up-to-date, and discoverable.
 - Encourage pair sessions for cross-team learning.
@@ -194,16 +198,12 @@ Architecture is collective. Even with leads, everyone contributes to long-term s
 
 > Culture is the heartbeat of the system — maintain it like code.
 
----
-
-### Shared Learning & Visibility
+**Shared Learning & Visibility**
 
 Formats like **chapter meetings**, **rotations**, and **contribution logs** ensure shared learning stays visible and evenly distributed.  
 Mentoring and teaching are measured not by volume, but by consistency.
 
----
-
-## Review Cadence
+**Review Cadence**
 
 - **Quarterly reviews** → Ensure relevance and alignment.
 - **Bi-annual audits** → Reevaluate structure and evolution.
@@ -291,7 +291,6 @@ engineering/
 │   │   ├── mobile.md
 │   │   ├── platform.md
 │   │   └── security.md
-│   ├── principles-and-direction.md
 │   ├── tooling-and-terminology/
 │   │   ├── index.md
 │   │   ├── ai.md
@@ -323,8 +322,7 @@ engineering/
     ├── migration-log.md
     ├── review-cadence.md
     ├── roster-and-contribution-logs.md
-    ├── principles-and-direction.md
-    └── visibility-and-signals.md
+    └── principles-and-direction.md
 ```
 
 ---
