@@ -245,8 +245,6 @@ Each chapter includes:
 ```bash
 engineering/
 ├── index.md
-│
-
 ├── chapters/
     ├── ai/
     │   ├── index.md
