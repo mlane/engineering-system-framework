@@ -105,12 +105,11 @@ Before adopting a tool, process, or major shift, ask:
 Tracks key initiatives that advance the organization’s systems, visibility, and long-term health.  
 Each initiative is tied to a clear **owner**, **purpose**, and **review cadence** — but implementation details remain flexible.
 
-| Initiative           | Status      | Owner               | Domain  | Link                 |
-| -------------------- | ----------- | ------------------- | ------- | -------------------- |
-| Dependency Health    | In Progress | Platform Council    | FE / BE | https://{ticketLink} |
-| Observability Setup  | In Progress | Systems Team        | FE      | https://{ticketLink} |
-| Design System        | In Progress | Design + FE Council | Mobile  | https://{ticketLink} |
-| Data Freshness Audit | Not Started | Analytics Team      | Data    | https://{ticketLink} |
+| Initiative           | Status      | Owner                   | Domain   | Link                 |
+| -------------------- | ----------- | ------------------------| -------- | -------------------- |
+| Dependency Health    | In Progress | Architectural Council   | FE / BE  | https://{ticketLink} |
+| Observability Setup  | In Progress | Systems Council         | FE       | https://{ticketLink} |
+| Design System        | In Progress | Mobile Council          | Mobile   | https://{ticketLink} |
 
 > The table is a **living layer**, not a dashboard.  
 > Its purpose is to create accountability and visibility, not bureaucracy.
@@ -211,7 +210,7 @@ Mentoring and teaching are measured not by volume, but by consistency.
 - **Quarterly reviews** → Ensure relevance and alignment.
 - **Bi-annual audits** → Reevaluate structure and evolution.
 - **Async feedback encouraged** → Small, continuous improvements.
-- **Architectural Council (bi-weekly)** → Aligns platform leads (BE, Data, FE, Mobile) on shared evolution and decisions.
+- **Architectural Council (bi-weekly)** → Aligns domain architect (BE, Data, FE, Mobile) on shared evolution and decisions.
 
 > The system stays alive through rhythm, not ceremony.
 
@@ -223,7 +222,7 @@ Defines how the shared framework translates into concrete systems — across fro
 
 - **Architect Compass:** How we evaluate tradeoffs and balance constraints.
 - **Dependency Health & Deployment:** Safe, maintainable, and automated release cycles.
-- **Tooling & Terminology:** Shared language for cross-platform communication.
+- **Tooling & Terminology:** Shared language for cross-domain communication.
 - **Visibility & Alerting:** Consistent observability practices across domains.
 - **Glossary:** Common definitions for clarity across Engineering.
 
