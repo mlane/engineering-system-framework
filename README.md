@@ -34,6 +34,8 @@ This keeps truth centralized, prevents decay, and ensures the framework evolves 
 The framework is designed to scale across any organization size or structure.  
 Most engineering orgs include some or all of the following domains — each connected through shared principles and rhythms.
 
+> Note: In some orgs, DevOps and Infrastructure may operate as shared advisors across multiple domains rather than owning a standalone chapter. That’s fully valid — inclusion and representation can take many forms.
+
 | Domain                        | Purpose                                                                                                           |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | **AI / Machine Learning**     | Trains and serves intelligent models. Focuses on inference quality, feedback loops, and safety.                   |
@@ -43,6 +45,7 @@ Most engineering orgs include some or all of the following domains — each conn
 | **Mobile**                    | Delivers native app experiences across iOS and Android. Ensures parity and cohesion with the broader system.      |
 | **Platform / Infrastructure** | Provides tooling, CI/CD, and operational reliability. Enables autonomy and system-wide consistency.               |
 | **Security**                  | Protects systems, data, and user trust. Defines policies, audits risk, and reinforces safe development practices. |
+
 
 > Not every company will have all domains — and that’s expected.  
 > The framework scales naturally: smaller teams start with a few, larger orgs formalize the rest over time.
