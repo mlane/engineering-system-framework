@@ -216,6 +216,20 @@ Mentoring and teaching are measured not by volume, but by consistency.
 
 ---
 
+### Architectural Hierarchy
+
+To scale architectural clarity and ownership, the system defines three levels:
+
+| Level         | Role                   | Scope & Focus                                                                 |
+|---------------|------------------------|-------------------------------------------------------------------------------|
+| **Org-Wide**  | **Architectural Council** | Aligns domain architects across FE, BE, Data, Mobile, etc. |
+| **Domain**    | **Domain Architect**     | Owns technical direction within a domain (e.g. Frontend, Backend).           |
+| **Product**   | **Domain Council Member** | Supports architecture within a specific product team.                       |
+
+> This hierarchy ensures decisions scale from the ground up — while remaining aligned across Engineering.
+
+---
+
 ## Architecture & Systems Layer
 
 Defines how the shared framework translates into concrete systems — across frontend, backend, and mobile.
