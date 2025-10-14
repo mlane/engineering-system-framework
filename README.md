@@ -340,7 +340,6 @@ engineering/
 └── framework/
     ├── index.md
     ├── culture-and-growth.md
-    ├── health-and-maintenance.md
     ├── engineering-support-directory.md
     ├── engineering-training-material.md
     ├── initiatives-and-ownership.md
