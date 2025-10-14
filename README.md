@@ -4,7 +4,7 @@ A living **meta-framework** for scaling clarity, consistency, and long-term alig
 Designed to unify principles, rhythms, and documentation through a shared, evolving structure — adaptable to any company, any size.
 
 This repository is a **blueprint**, not a prescription.  
-It provides structure and language so every organization can define its own system — together.
+It provides structure and language so organizations can define their systems — together.
 
 > This framework does not replace existing documentation — it provides a focused space for shared decision frameworks, initiative tracking, and platform-specific guidance.
 
@@ -32,13 +32,13 @@ This keeps truth centralized, prevents decay, and ensures the framework evolves 
 ## Engineering Domains
 
 The framework is designed to scale across any organization size or structure.  
-Most engineering orgs include some or all of the following domains — each connected through shared principles and rhythms.
+Most engineering orgs include some or all of the following domains, each connected through shared principles and rhythms.
 
 > Note: In some orgs, DevOps and Infrastructure may operate as shared advisors across multiple domains rather than owning a standalone chapter. That’s fully valid — inclusion and representation can take many forms.
 
 | Domain                        | Purpose                                                                                                           |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **AI / Machine Learning**     | Trains and serves intelligent models. Focuses on inference quality, feedback loops, and safety.                   |
+| **AI / Machine Learning**     | Trains and serves intelligent models. Prioritizes inference quality, feedback loops, and responsible safety.                   |
 | **Backend (BE)**              | Manages APIs, integrations, and business logic. Prioritizes reliability, scalability, and maintainability.        |
 | **Data**                      | Handles analytics, pipelines, and warehousing. Ensures accuracy, lineage, and observability.                      |
 | **Frontend (FE)**             | Builds user-facing interfaces and client logic for the web. Focuses on clarity, performance, and accessibility.   |
@@ -141,7 +141,7 @@ Each entry should include:
 Defines how organizations stay healthy over time — through maintenance, automation, and review.  
 It’s not about perfection; it’s about continuous, visible improvement.
 
-- **Dependencies:** Review quarterly; prefer upgrades over rewrites.
+- **Dependencies:** Review quarterly. Regular upgrades prevent drift and reduce the need for risky rewrites later.
 - **Documentation:** Keep alive — update as part of normal work.
 - **Audits:** Schedule semi-annually to catch drift or tech debt early.
 - **Automation:** Use tools to enforce consistency and detect risk.
@@ -224,7 +224,7 @@ To scale architectural clarity and ownership, the system defines three levels:
 |---------------|------------------------|-------------------------------------------------------------------------------|
 | **Org-Wide**  | **Architectural Council** | Aligns Domain Architects (e.g., BE, Data, FE, Mobile) on shared evolution and cross-domain decisions. |
 | **Domain**    | **Domain Architect**     | Owns technical direction within a domain (e.g., BE, Data, FE, Mobile).           |
-| **Product**   | **Domain Council Member** | Supports architecture within a specific product team.                       |
+| **Product**   | **Domain Council Member** | Supports architectural quality and direction within a specific product team.                       |
 
 > This hierarchy ensures decisions scale from the ground up — while remaining aligned across Engineering.
 
