@@ -52,6 +52,19 @@ Most engineering orgs include some or all of the following domains, each connect
 
 ---
 
+## Domain vs Chapter
+
+To reduce confusion, we explicitly distinguish **Domains** (architectural boundaries) from **Chapters** (community learning groups).
+
+| Term     | Purpose                                | Ownership             | Notes |
+|----------|----------------------------------------|------------------------|-------|
+| **Domain**   | Defines technical ownership boundaries | Domain Architect       | Used in systems, architecture, and cross-domain initiatives |
+| **Chapter**  | Drives community learning & visibility | Chapter Lead or Domain Architect | Used for rituals like mini trainings, lightning talks, and shared practice growth |
+
+> Domains shape what we build; Chapters shape how we grow together.
+
+---
+
 ## Engineering System Core
 
 The following sections define the foundation of how Engineering aligns, evolves, and shares ownership across teams.
