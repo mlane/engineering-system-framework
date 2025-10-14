@@ -275,27 +275,28 @@ Each chapter includes:
 engineering/
 ├── index.md
 ├── chapters/
-    ├── ai/
-    │   ├── index.md
-    │   └── meeting-notes/
-    ├── backend/
-    │   ├── index.md
-    │   └── meeting-notes/
-    ├── data/
-    │   ├── index.md
-    │   └── meeting-notes/
-    ├── frontend/
-    │   ├── index.md
-    │   └── meeting-notes/
-    ├── mobile/
-    │   ├── index.md
-    │   └── meeting-notes/
-    ├── platform/
-    │   ├── index.md
-    │   └── meeting-notes/
-    └── security/
-        ├── index.md
-        └── meeting-notes/
+│   ├── index.md
+│   ├── ai/
+│   │   ├── index.md
+│   │   └── meeting-notes/
+│   ├── backend/
+│   │   ├── index.md
+│   │   └── meeting-notes/
+│   ├── data/
+│   │   ├── index.md
+│   │   └── meeting-notes/
+│   ├── frontend/
+│   │   ├── index.md
+│   │   └── meeting-notes/
+│   ├── mobile/
+│   │   ├── index.md
+│   │   └── meeting-notes/
+│   ├── platform/
+│   │   ├── index.md
+│   │   └── meeting-notes/
+│   └── security/
+│       ├── index.md
+│       └── meeting-notes/
 │
 ├── architecture/
 │   ├── index.md
@@ -355,18 +356,18 @@ engineering/
 │       ├── platform.md
 │       └── security.md
 │
-└── framework/
-    ├── index.md
-    ├── culture-and-growth.md
-    ├── engineering-support-directory.md
-    ├── engineering-training-material.md
-    ├── initiatives-and-ownership.md
-    ├── meeting-format-and-talk-signups.md
-    ├── mentoring-corner.md
-    ├── migration-log.md
-    ├── review-cadence.md
-    ├── roster-and-contribution-logs.md
-    └── principles-and-direction.md
+├── framework/
+│   ├── index.md
+│   ├── culture-and-growth.md
+│   ├── engineering-support-directory.md
+│   ├── engineering-training-material.md
+│   ├── initiatives-and-ownership.md
+│   ├── meeting-format-and-talk-signups.md
+│   ├── mentoring-corner.md
+│   ├── migration-log.md
+│   ├── review-cadence.md
+│   ├── roster-and-contribution-logs.md
+│   └── principles-and-direction.md
 ```
 
 ---
