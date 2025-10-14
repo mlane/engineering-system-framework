@@ -210,7 +210,7 @@ Mentoring and teaching are measured not by volume, but by consistency.
 - **Quarterly reviews** → Ensure relevance and alignment.
 - **Bi-annual audits** → Reevaluate structure and evolution.
 - **Async feedback encouraged** → Small, continuous improvements.
-- **Architectural Council (bi-weekly)** → Aligns domain architect (BE, Data, FE, Mobile) on shared evolution and decisions.
+- **Architectural Council (bi-weekly)** → Aligns domain architect (e.g., BE, Data, FE, Mobile) on shared evolution and decisions.
 
 > The system stays alive through rhythm, not ceremony.
 
@@ -222,8 +222,8 @@ To scale architectural clarity and ownership, the system defines three levels:
 
 | Level         | Role                   | Scope & Focus                                                                 |
 |---------------|------------------------|-------------------------------------------------------------------------------|
-| **Org-Wide**  | **Architectural Council** | Aligns domain architects across FE, BE, Data, Mobile, etc. |
-| **Domain**    | **Domain Architect**     | Owns technical direction within a domain (e.g. Frontend, Backend).           |
+| **Org-Wide**  | **Architectural Council** | Aligns Domain Architects (e.g., BE, Data, FE, Mobile) on shared evolution and cross-domain decisions. |
+| **Domain**    | **Domain Architect**     | Owns technical direction within a domain (e.g., BE, Data, FE, Mobile).           |
 | **Product**   | **Domain Council Member** | Supports architecture within a specific product team.                       |
 
 > This hierarchy ensures decisions scale from the ground up — while remaining aligned across Engineering.
@@ -232,7 +232,7 @@ To scale architectural clarity and ownership, the system defines three levels:
 
 ## Architecture & Systems Layer
 
-Defines how the shared framework translates into concrete systems — across frontend, backend, and mobile.
+Defines how the shared framework translates into concrete systems — across domains (e.g., BE, Data, FE, Mobile).
 
 - **Architect Compass:** How we evaluate tradeoffs and balance constraints.
 - **Dependency Health & Deployment:** Safe, maintainable, and automated release cycles.
