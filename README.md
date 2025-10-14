@@ -300,6 +300,15 @@ engineering/
 ├── architecture/
 │   ├── index.md
 │   ├── architect-compass.md
+│   ├── data-tracking-and-flow/
+│   │   ├── index.md
+│   │   ├── ai.md
+│   │   ├── be.md
+│   │   ├── data.md
+│   │   ├── fe.md
+│   │   ├── mobile.md
+│   │   ├── platform.md
+│   │   └── security.md
 │   ├── dependency-health-maintenance-and-deployment/
 │   │   ├── index.md
 │   │   ├── ai.md
@@ -310,6 +319,15 @@ engineering/
 │   │   ├── platform.md
 │   │   └── security.md
 │   ├── glossary.md
+│   │   ├── index.md
+│   │   ├── ai.md
+│   │   ├── be.md
+│   │   ├── data.md
+│   │   ├── fe.md
+│   │   ├── mobile.md
+│   │   ├── platform.md
+│   │   └── security.md
+│   ├── performance/
 │   │   ├── index.md
 │   │   ├── ai.md
 │   │   ├── be.md
