@@ -29,6 +29,19 @@ This keeps truth centralized, prevents decay, and ensures the framework evolves 
 
 ---
 
+## Pillar Values
+
+Each pillar in the Engineering System Framework is grounded in a single, shared-value quote — guiding how it operates and evolves:
+
+- **Architecture & Systems**  
+  _“We design for security, scalability, and simplicity — not trends.”_
+- **Framework & Cadence**  
+  _“We scale through rhythm, ownership, and principle — not process.”_
+- **Chapters & Communication**  
+  _“We grow through shared learning, clarity, and visibility — not performance.”_
+
+---
+
 ## Engineering Domains
 
 The framework is designed to scale across any organization size or structure.  
@@ -52,16 +65,17 @@ Most engineering orgs include some or all of the following domains, each connect
 
 ---
 
-## Domain vs Chapter
+## Team vs Chapter vs Domain
 
-To reduce confusion, we explicitly distinguish **Domains** (architectural boundaries) from **Chapters** (community learning groups).
+To reduce confusion, we explicitly distinguish between Domains (architectural boundaries), Chapters (shared learning rhythms), and Teams (product execution units).
 
 | Term     | Purpose                                | Ownership             | Notes |
 |----------|----------------------------------------|------------------------|-------|
+| **Team** | Delivers product features and execution scope | Engineering Manager / Product Manager    | Not used in architecture or system-level decision-making |
 | **Domain**   | Defines technical ownership boundaries | Domain Architect       | Used in systems, architecture, and cross-domain initiatives |
 | **Chapter**  | Drives community learning & visibility | Chapter Lead or Domain Architect | Used for rituals like mini trainings, lightning talks, and shared practice growth |
 
-> Domains shape what we build; Chapters shape how we grow together.
+> Teams build the product; Domains shape what we build; Chapters shape how we grow together.
 
 ---
 
