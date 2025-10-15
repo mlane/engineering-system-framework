@@ -40,6 +40,8 @@ Each pillar in the Engineering System Framework is grounded in a single, shared-
 - **Chapters & Communication**  
   _“We grow through shared learning, clarity, and visibility — not performance.”_
 
+<img width="1536" height="1024" alt="6B92C537-39CE-4C69-9D21-DBF2199F2DD6" src="https://github.com/user-attachments/assets/117927ec-8a00-4fd8-aa58-fff18eab4e79" />
+
 ---
 
 ## Engineering Domains
