@@ -286,6 +286,7 @@ Each chapter includes:
 ---
 
 ## Structure Overview
+This structure shows one working example of a fully scaffolded ESF system.
 
 ```bash
 engineering/
