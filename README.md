@@ -33,11 +33,11 @@ This keeps truth centralized, prevents decay, and ensures the framework evolves 
 
 Each pillar in the Engineering System Framework is grounded in a single, shared-value quote — guiding how it operates and evolves:
 
-- **Architecture & Systems**  
+- **Architecture & Systems**
   _“We design for security, scalability, and simplicity — not trends.”_
-- **Framework & Cadence**  
+- **Framework & Cadence**
   _“We scale through rhythm, ownership, and principle — not process.”_
-- **Chapters & Communication**  
+- **Chapters & Communication**
   _“We grow through shared learning, clarity, and visibility — not performance.”_
 
 <img width="1536" height="1024" alt="6B92C537-39CE-4C69-9D21-DBF2199F2DD6" src="https://github.com/user-attachments/assets/117927ec-8a00-4fd8-aa58-fff18eab4e79" />
@@ -46,7 +46,7 @@ Each pillar in the Engineering System Framework is grounded in a single, shared-
 
 ## Engineering Domains
 
-The framework is designed to scale across any organization size or structure.  
+The framework is designed to scale across any organization size or structure.
 Most engineering orgs include some or all of the following domains, each connected through shared principles and rhythms.
 
 > Note: In some orgs, DevOps and Infrastructure may operate as shared advisors across multiple domains rather than owning a standalone chapter. That’s fully valid — inclusion and representation can take many forms.
@@ -62,18 +62,18 @@ Most engineering orgs include some or all of the following domains, each connect
 | **Security**                  | Protects systems, data, and user trust. Defines policies, audits risk, and reinforces safe development practices. |
 
 
-> Not every company will have all domains — and that’s expected.  
+> Not every company will have all domains — and that’s expected.
 > The framework scales naturally: smaller teams start with a few, larger orgs formalize the rest over time.
 
 ---
 
 ## Team vs Chapter vs Domain
 
-To reduce confusion, we explicitly distinguish between Domains (architectural boundaries), Chapters (shared learning rhythms), and Teams (dynamic product execution contexts).
+To reduce confusion, we explicitly distinguish between Domains (architectural boundaries), Chapters (shared learning rhythms), and Teams (product execution units).
 
 | Term     | Purpose                                | Ownership             | Notes |
 |----------|----------------------------------------|------------------------|-------|
-| **Team** | Delivers product features and execution scope | Engineers + cross-functional collaborators (e.g. PMs, Designers) | Dynamic and situational — not a fixed structural layer |
+| **Team** | Delivers product features and execution scope | Engineering Manager / Product Manager    | Not used in architecture or system-level decision-making |
 | **Domain**   | Defines technical ownership boundaries | Domain Architect       | Used in systems, architecture, and cross-domain initiatives |
 | **Chapter**  | Drives community learning & visibility | Chapter Lead or Domain Architect | Used for rituals like mini trainings, lightning talks, and shared practice growth |
 
@@ -94,15 +94,15 @@ It focuses on clarity, maintainability, and sustainable growth.
 
 **Core Tenets**
 
-- **Stability first, novelty second.**  
+- **Stability first, novelty second.**
   Prioritize proven solutions that reduce friction and uncertainty.
-- **Security, performance, scalability.**  
+- **Security, performance, scalability.**
   Every decision should strengthen at least one of these pillars.
-- **Simplicity scales.**  
+- **Simplicity scales.**
   Minimize concepts, maximize clarity.
-- **Team clarity matters.**  
+- **Team clarity matters.**
   If it’s hard to explain, it’s too complex.
-- **Change must be justified.**  
+- **Change must be justified.**
   Adopt new tools to solve real problems — not hypothetical ones.
 
 **Decision Filters**
@@ -115,7 +115,7 @@ Before adopting a tool, process, or major shift, ask:
 4. Can we test it safely in isolation first?
 5. Will it be easy for others to learn and use?
 
-> ✅ If three or more answers are “yes,” move forward.  
+> ✅ If three or more answers are “yes,” move forward.
 > 🚫 Otherwise, reconsider.
 
 **Architectural Role**
@@ -131,7 +131,7 @@ Before adopting a tool, process, or major shift, ask:
 
 ### 2. Initiatives & Ownership
 
-Tracks key initiatives that advance the organization’s systems, visibility, and long-term health.  
+Tracks key initiatives that advance the organization’s systems, visibility, and long-term health.
 Each initiative is tied to a clear **owner**, **purpose**, and **review cadence** — but implementation details remain flexible.
 
 | Initiative           | Status      | Owner                   | Domain   | Link                 |
@@ -140,14 +140,14 @@ Each initiative is tied to a clear **owner**, **purpose**, and **review cadence*
 | Observability Setup  | In Progress | Systems Council         | FE       | https://{ticketLink} |
 | Design System        | In Progress | Mobile Council          | Mobile   | https://{ticketLink} |
 
-> The table is a **living layer**, not a dashboard.  
+> The table is a **living layer**, not a dashboard.
 > Its purpose is to create accountability and visibility, not bureaucracy.
 
 ---
 
 ### 3. Migration Log
 
-Captures significant engineering events, migrations, or unexpected issues that required architectural visibility or coordination.  
+Captures significant engineering events, migrations, or unexpected issues that required architectural visibility or coordination.
 This log helps teams understand _why_ a change happened — not just _what_ changed.
 
 Each entry should include:
@@ -160,14 +160,14 @@ Each entry should include:
 - **Resolution / Lesson Learned**
 - **References** (links to Slack threads, PRs, or related docs)
 
-> This log complements “Initiatives & Ownership.”  
+> This log complements “Initiatives & Ownership.”
 > Initiatives define planned evolution — the Migration Log records what we learned while evolving.
 
 ---
 
 ### 4. Health & Maintenance
 
-Defines how organizations stay healthy over time — through maintenance, automation, and review.  
+Defines how organizations stay healthy over time — through maintenance, automation, and review.
 It’s not about perfection; it’s about continuous, visible improvement.
 
 - **Dependencies:** Review quarterly. Regular upgrades prevent drift and reduce the need for risky rewrites later.
@@ -183,7 +183,7 @@ It’s not about perfection; it’s about continuous, visible improvement.
 
 Visibility defines what we track, how we ensure signal continuity across systems and teams, and how those signals lead to timely, actionable improvement.
 
-A healthy system notices itself.  
+A healthy system notices itself.
 Visibility ensures that information flows from systems → people → decisions.
 
 - **Error Monitoring:** Standardize alert formats and destinations.
@@ -231,7 +231,7 @@ Architecture is collective. Even with leads, everyone contributes to long-term s
 
 **Shared Learning & Visibility**
 
-Formats like **chapter meetings**, **rotations**, and **contribution logs** ensure shared learning stays visible and evenly distributed.  
+Formats like **chapter meetings**, **rotations**, and **contribution logs** ensure shared learning stays visible and evenly distributed.
 Mentoring and teaching are measured not by volume, but by consistency.
 
 **Review Cadence**
@@ -280,8 +280,13 @@ Holds team-level rhythm and communication artifacts — not formal documentation
 Each chapter includes:
 
 - **Meeting Notes** — Lightweight documentation of discussions and decisions.
-- **Rotations** — Lightning talks, mini trainings, leadership sessions.
-- **Cross-Team Updates** — Wins, challenges, and what’s next.
+- **Rotations** — Each engineer is expected to give one Lightning Talk and one Mini Training per year. Chapters own the rotation and timing.
+- **Signups** — Signup sheets live in each chapter and are linked in `meeting-format-and-talk-signups.md`.
+- **Contribution Logs** — Each chapter maintains a log of engineer talks to support fair rotation — helping avoid back-to-back scheduling and keeping the rhythm healthy.
+
+A separate **Leadership Rotation** complements this system. Instead of joining all seven chapters, executives (e.g. CEO, President, Product, Growth, Engineering) rotate into a single shared sync — bringing alignment without repetition.
+
+> Chapter learning is local. Executive rhythm is shared. Both matter.
 
 ---
 
@@ -295,25 +300,39 @@ engineering/
 │   ├── index.md
 │   ├── ai/
 │   │   ├── index.md
-│   │   └── meeting-notes/
+│   │   ├── meeting-notes/
+│   │   ├── roster-and-contribution-logs
+│   │   └── talk-signups.md
 │   ├── backend/
 │   │   ├── index.md
-│   │   └── meeting-notes/
+│   │   ├── meeting-notes/
+│   │   ├── roster-and-contribution-logs
+│   │   └── talk-signups.md
 │   ├── data/
 │   │   ├── index.md
-│   │   └── meeting-notes/
+│   │   ├── meeting-notes/
+│   │   ├── roster-and-contribution-logs
+│   │   └── talk-signups.md
 │   ├── frontend/
 │   │   ├── index.md
-│   │   └── meeting-notes/
+│   │   ├── meeting-notes/
+│   │   ├── roster-and-contribution-logs
+│   │   └── talk-signups.md
 │   ├── mobile/
 │   │   ├── index.md
-│   │   └── meeting-notes/
+│   │   ├── meeting-notes/
+│   │   ├── roster-and-contribution-logs
+│   │   └── talk-signups.md
 │   ├── platform/
 │   │   ├── index.md
-│   │   └── meeting-notes/
+│   │   ├── meeting-notes/
+│   │   ├── roster-and-contribution-logs
+│   │   └── talk-signups.md
 │   └── security/
 │       ├── index.md
-│       └── meeting-notes/
+│       ├── meeting-notes/
+│       ├── roster-and-contribution-logs.md
+│       └── talk-signups.md
 │
 ├── architecture/
 │   ├── index.md
@@ -383,7 +402,6 @@ engineering/
 │   ├── mentoring-corner.md
 │   ├── migration-log.md
 │   ├── review-cadence.md
-│   ├── roster-and-contribution-logs.md
 │   └── principles-and-direction.md
 ```
 
