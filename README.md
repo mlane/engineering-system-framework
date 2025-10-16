@@ -69,11 +69,11 @@ Most engineering orgs include some or all of the following domains, each connect
 
 ## Team vs Chapter vs Domain
 
-To reduce confusion, we explicitly distinguish between Domains (architectural boundaries), Chapters (shared learning rhythms), and Teams (product execution units).
+To reduce confusion, we explicitly distinguish between Domains (architectural boundaries), Chapters (shared learning rhythms), and Teams (dynamic product execution contexts).
 
 | Term     | Purpose                                | Ownership             | Notes |
 |----------|----------------------------------------|------------------------|-------|
-| **Team** | Delivers product features and execution scope | Engineering Manager / Product Manager    | Not used in architecture or system-level decision-making |
+| **Team** | Delivers product features and execution scope | Engineers + cross-functional collaborators (e.g. PMs, Designers) | Dynamic and situational — not a fixed structural layer |
 | **Domain**   | Defines technical ownership boundaries | Domain Architect       | Used in systems, architecture, and cross-domain initiatives |
 | **Chapter**  | Drives community learning & visibility | Chapter Lead or Domain Architect | Used for rituals like mini trainings, lightning talks, and shared practice growth |
 
