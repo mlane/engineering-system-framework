@@ -91,6 +91,9 @@ To reduce confusion, we explicitly distinguish between Domains (architectural bo
 | **Chapter** | Drives community learning & visibility     | Chapter Lead or Domain Architect                 | Used for rituals like mini trainings, lightning talks, and shared practice growth |
 
 > Teams move the work; Domains shape what we build; Chapters shape how we grow together.
+<img width="1536" height="1024" alt="3EC3D8E9-356C-46C2-A594-154B1E0AF760" src="https://github.com/user-attachments/assets/8a4a3c82-baa5-4649-9205-ed4d4d244f0b" />
+
+
 
 ---
 
