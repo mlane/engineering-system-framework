@@ -67,14 +67,13 @@ Most engineering orgs include some or all of the following domains, each connect
 
 | Domain                        | Purpose                                                                                                           |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **AI / Machine Learning**     | Trains and serves intelligent models. Prioritizes inference quality, feedback loops, and responsible safety.                   |
+| **AI / Machine Learning**     | Trains and serves intelligent models. Prioritizes inference quality, feedback loops, and responsible safety.      |
 | **Backend (BE)**              | Manages APIs, integrations, and business logic. Prioritizes reliability, scalability, and maintainability.        |
 | **Data**                      | Handles analytics, pipelines, and warehousing. Ensures accuracy, lineage, and observability.                      |
 | **Frontend (FE)**             | Builds user-facing interfaces and client logic for the web. Focuses on clarity, performance, and accessibility.   |
 | **Mobile**                    | Delivers native app experiences across iOS and Android. Ensures parity and cohesion with the broader system.      |
 | **Platform / Infrastructure** | Provides tooling, CI/CD, and operational reliability. Enables autonomy and system-wide consistency.               |
 | **Security**                  | Protects systems, data, and user trust. Defines policies, audits risk, and reinforces safe development practices. |
-
 
 > Not every company will have all domains — and that’s expected.
 > The framework scales naturally: smaller teams start with a few, larger orgs formalize the rest over time.
@@ -83,15 +82,15 @@ Most engineering orgs include some or all of the following domains, each connect
 
 ## Team vs Chapter vs Domain
 
-To reduce confusion, we explicitly distinguish between Domains (architectural boundaries), Chapters (shared learning rhythms), and Teams (product execution units).
+To reduce confusion, we explicitly distinguish between Domains (architectural boundaries), Chapters (shared learning rhythms), and Teams (execution contexts formed around effort).
 
-| Term     | Purpose                                | Ownership             | Notes |
-|----------|----------------------------------------|------------------------|-------|
-| **Team** | Delivers product features and execution scope | Engineering Manager / Product Manager    | Not used in architecture or system-level decision-making |
-| **Domain**   | Defines technical ownership boundaries | Domain Architect       | Used in systems, architecture, and cross-domain initiatives |
-| **Chapter**  | Drives community learning & visibility | Chapter Lead or Domain Architect | Used for rituals like mini trainings, lightning talks, and shared practice growth |
+| Term        | Purpose                                    | Participation                                    | Notes                                                                             |
+| ----------- | ------------------------------------------ | ------------------------------------------------ | --------------------------------------------------------------------------------- |
+| **Team**    | Executes scoped product or system outcomes | Dynamic contributors (EMs, PMs, ICs, Architects) | Formed around effort — not a fixed structural layer                               |
+| **Domain**  | Defines technical ownership boundaries     | Domain Architect                                 | Used in systems, architecture, and cross-domain initiatives                       |
+| **Chapter** | Drives community learning & visibility     | Chapter Lead or Domain Architect                 | Used for rituals like mini trainings, lightning talks, and shared practice growth |
 
-> Teams build the product; Domains shape what we build; Chapters shape how we grow together.
+> Teams move the work; Domains shape what we build; Chapters shape how we grow together.
 
 ---
 
@@ -148,11 +147,11 @@ Before adopting a tool, process, or major shift, ask:
 Tracks key initiatives that advance the organization’s systems, visibility, and long-term health.
 Each initiative is tied to a clear **owner**, **purpose**, and **review cadence** — but implementation details remain flexible.
 
-| Initiative           | Status      | Owner                   | Domain   | Link                 |
-| -------------------- | ----------- | ------------------------| -------- | -------------------- |
-| Dependency Health    | In Progress | Architectural Council   | FE / BE  | https://{ticketLink} |
-| Observability Setup  | In Progress | Systems Council         | FE       | https://{ticketLink} |
-| Design System        | In Progress | Mobile Council          | Mobile   | https://{ticketLink} |
+| Initiative          | Status      | Owner                 | Domain  | Link                 |
+| ------------------- | ----------- | --------------------- | ------- | -------------------- |
+| Dependency Health   | In Progress | Architectural Council | FE / BE | https://{ticketLink} |
+| Observability Setup | In Progress | Systems Council       | FE      | https://{ticketLink} |
+| Design System       | In Progress | Mobile Council        | Mobile  | https://{ticketLink} |
 
 > The table is a **living layer**, not a dashboard.
 > Its purpose is to create accountability and visibility, not bureaucracy.
@@ -263,11 +262,11 @@ Mentoring and teaching are measured not by volume, but by consistency.
 
 To scale architectural clarity and ownership, the system defines three levels:
 
-| Level         | Role                   | Scope & Focus                                                                 |
-|---------------|------------------------|-------------------------------------------------------------------------------|
-| **Org-Wide**  | **Architectural Council** | Aligns Domain Architects (e.g., BE, Data, FE, Mobile) on shared evolution and cross-domain decisions. |
-| **Domain**    | **Domain Architect**     | Owns technical direction within a domain (e.g., BE, Data, FE, Mobile).           |
-| **Product**   | **Domain Council Member** | Supports architectural quality and direction within a specific product team.                       |
+| Level        | Role                      | Scope & Focus                                                                                         |
+| ------------ | ------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Org-Wide** | **Architectural Council** | Aligns Domain Architects (e.g., BE, Data, FE, Mobile) on shared evolution and cross-domain decisions. |
+| **Domain**   | **Domain Architect**      | Owns technical direction within a domain (e.g., BE, Data, FE, Mobile).                                |
+| **Product**  | **Domain Council Member** | Supports architectural quality and direction within a specific product team.                          |
 
 > This hierarchy ensures decisions scale from the ground up — while remaining aligned across Engineering.
 
@@ -305,6 +304,7 @@ A separate **Leadership Rotation** complements this system. Instead of joining a
 ---
 
 ## Structure Overview
+
 This structure shows one working example of a fully scaffolded ESF system.
 
 ```bash
