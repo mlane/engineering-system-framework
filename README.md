@@ -12,7 +12,7 @@ It provides structure and language so organizations can define their systems —
 
 ## What This Means
 
-The ESF is a living framework that aligns how we build, scale, and grow — across domains, across time.  
+The ESF is a living framework that aligns how we **build**, **scale**, and **grow** — across domains, across time.  
 It surfaces principles to the engineering level through three enduring pillars: Architecture & Systems, Framework & Cadence, and Chapters & Communication.  
 It’s not a restart. It’s a reset — a system that remembers, so engineering stays visible, intentional, and durable.
 
