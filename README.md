@@ -354,6 +354,7 @@ engineering/
 ├── architecture/
 │   ├── index.md
 │   ├── architect-compass.md
+│   ├── council.md
 │   ├── data-tracking-and-flow/
 │   │   ├── index.md
 │   │   ├── ai.md
