@@ -296,7 +296,7 @@ Each chapter includes:
 
 - **Meeting Notes** — Lightweight documentation of discussions and decisions.
 - **Rotations** — Each engineer is expected to give one Lightning Talk and one Mini Training per year. Chapters own the rotation and timing.
-- **Signups** — Signup sheets live in each chapter and are linked in `meeting-format-&-talk-signups.md`.
+- **Signups** — Signup sheets live in each chapter and are linked in `meeting-format-and-talk-signups.md`.
 - **Contribution Logs** — Each chapter maintains a log of engineer talks to support fair rotation — helping avoid back-to-back scheduling and keeping the rhythm healthy.
 
 A separate **Leadership Rotation** complements this system. Instead of joining all seven chapters, executives (e.g. CEO, President, Product, Growth, Engineering) rotate into a single shared sync — bringing alignment without repetition.
@@ -317,44 +317,44 @@ engineering/
 │   ├── ai/
 │   │   ├── index.md
 │   │   ├── meeting-notes/
-│   │   ├── roster-&-contribution-logs
+│   │   ├── roster-and-contribution-logs
 │   │   └── talk-signups.md
 │   ├── backend/
 │   │   ├── index.md
 │   │   ├── meeting-notes/
-│   │   ├── roster-&-contribution-logs
+│   │   ├── roster-and-contribution-logs
 │   │   └── talk-signups.md
 │   ├── data/
 │   │   ├── index.md
 │   │   ├── meeting-notes/
-│   │   ├── roster-&-contribution-logs
+│   │   ├── roster-and-contribution-logs
 │   │   └── talk-signups.md
 │   ├── frontend/
 │   │   ├── index.md
 │   │   ├── meeting-notes/
-│   │   ├── roster-&-contribution-logs
+│   │   ├── roster-and-contribution-logs
 │   │   └── talk-signups.md
 │   ├── mobile/
 │   │   ├── index.md
 │   │   ├── meeting-notes/
-│   │   ├── roster-&-contribution-logs
+│   │   ├── roster-and-contribution-logs
 │   │   └── talk-signups.md
 │   ├── platform/
 │   │   ├── index.md
 │   │   ├── meeting-notes/
-│   │   ├── roster-&-contribution-logs
+│   │   ├── roster-and-contribution-logs
 │   │   └── talk-signups.md
 │   └── security/
 │       ├── index.md
 │       ├── meeting-notes/
-│       ├── roster-&-contribution-logs.md
+│       ├── roster-and-contribution-logs.md
 │       └── talk-signups.md
 │
 ├── architecture/
 │   ├── index.md
 │   ├── architect-compass.md
 │   ├── council.md
-│   ├── data-tracking-&-flow/
+│   ├── data-tracking-and-flow/
 │   │   ├── index.md
 │   │   ├── ai.md
 │   │   ├── be.md
@@ -363,7 +363,7 @@ engineering/
 │   │   ├── mobile.md
 │   │   ├── platform.md
 │   │   └── security.md
-│   ├── dependency-health-&-deployment/
+│   ├── dependency-health-and-deployment/
 │   │   ├── index.md
 │   │   ├── ai.md
 │   │   ├── be.md
@@ -390,7 +390,7 @@ engineering/
 │   │   ├── mobile.md
 │   │   ├── platform.md
 │   │   └── security.md
-│   ├── tooling-&-terminology/
+│   ├── tooling-and-terminology/
 │   │   ├── index.md
 │   │   ├── ai.md
 │   │   ├── be.md
@@ -399,7 +399,7 @@ engineering/
 │   │   ├── mobile.md
 │   │   ├── platform.md
 │   │   └── security.md
-│   └── visibility-&-alerting/
+│   └── visibility-and-alerting/
 │       ├── index.md
 │       ├── ai.md
 │       ├── be.md
@@ -411,15 +411,15 @@ engineering/
 │
 ├── framework/
 │   ├── index.md
-│   ├── culture-&-growth.md
+│   ├── culture-and-growth.md
 │   ├── engineering-support-directory.md
 │   ├── engineering-training-material.md
-│   ├── initiatives-&-ownership.md
-│   ├── meeting-format-&-talk-signups.md
+│   ├── initiatives-and-ownership.md
+│   ├── meeting-format-and-talk-signups.md
 │   ├── mentoring-corner.md
 │   ├── migration-log.md
 │   ├── review-cadence.md
-│   └── principles-&-direction.md
+│   └── principles-and-direction.md
 ```
 
 ---
