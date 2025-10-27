@@ -165,18 +165,21 @@ Each initiative is tied to a clear **owner**, **purpose**, and **review cadence*
 Captures significant engineering events, migrations, or unexpected issues that required architectural visibility or coordination.
 This log helps teams understand _why_ a change happened — not just _what_ changed.
 
+| Log                                                                             | Date             | Logged By   | Domain(s) |
+| ------------------------------------------------------------------------------- | ---------------- | ----------- | --------- |
+| Encoded GraphQL Responses (P39: [...]) in Remix                                 | November 6, 2025 | Marcus Lane | BE, FE    |
+| React Router 7.6+ Introduced Stricter Type Enforcement on LoaderArgs/ActionArgs | November 6, 2025 | Marcus Lane | BE        |
+
 Each entry should include:
 
-- **Date**
 - **Title**
-- **Domain(s)**
 - **Summary** (brief description of what happened)
 - **Impact** (who or what was affected)
 - **Resolution / Lesson Learned**
 - **References** (links to Slack threads, PRs, or related docs)
 
 > This log complements “Initiatives & Ownership.”
-> Initiatives define planned evolution — the Migration Log records what we learned while evolving.
+> Initiatives define planned evolution — the Gotchas & Migration Log records what we learned while evolving.
 
 ---
 
