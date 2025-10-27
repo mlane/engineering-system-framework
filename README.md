@@ -91,9 +91,7 @@ To reduce confusion, we explicitly distinguish between Domains (architectural bo
 | **Chapter** | Drives community learning & visibility     | Chapter Lead or Domain Architect                 | Used for rituals like mini trainings, lightning talks, and shared practice growth |
 
 > Teams move the work; Domains shape what we build; Chapters shape how we grow together.
-<img width="1536" height="1024" alt="3EC3D8E9-356C-46C2-A594-154B1E0AF760" src="https://github.com/user-attachments/assets/8a4a3c82-baa5-4649-9205-ed4d4d244f0b" />
-
-
+> <img width="1536" height="1024" alt="3EC3D8E9-356C-46C2-A594-154B1E0AF760" src="https://github.com/user-attachments/assets/8a4a3c82-baa5-4649-9205-ed4d4d244f0b" />
 
 ---
 
@@ -150,18 +148,19 @@ Before adopting a tool, process, or major shift, ask:
 Tracks key initiatives that advance the organization’s systems, visibility, and long-term health.
 Each initiative is tied to a clear **owner**, **purpose**, and **review cadence** — but implementation details remain flexible.
 
-| Initiative          | Status      | Owner                 | Domain  | Link                 |
-| ------------------- | ----------- | --------------------- | ------- | -------------------- |
-| Dependency Health   | In Progress | Architectural Council | FE / BE | https://{ticketLink} |
-| Observability Setup | In Progress | Systems Council       | FE      | https://{ticketLink} |
-| Design System       | In Progress | Mobile Council        | Mobile  | https://{ticketLink} |
+| Initiative                              | Status      | Owner        | Domain(s) | Source               |
+| --------------------------------------- | ----------- | ------------ | --------- | -------------------- |
+| Dependency Health                       | In Progress | Marcus Lane  | BE, FE    | https://{ticketLink} |
+| ImageData Field Deprecation & Migration | In Progress | John Soon    | BE        | https://{ticketLink} |
+| Observability Setup                     | In Progress | Marcus Lane  | FE        | https://{ticketLink} |
+| Standardization (Phase 1) – Style Guide | In Progress | @fpregnolato | Mobile    | https://{ticketLink} |
 
 > The table is a **living layer**, not a dashboard.
 > Its purpose is to create accountability and visibility, not bureaucracy.
 
 ---
 
-### 3. Migration Log
+### 3. Gotchas & Migration Log
 
 Captures significant engineering events, migrations, or unexpected issues that required architectural visibility or coordination.
 This log helps teams understand _why_ a change happened — not just _what_ changed.
@@ -297,7 +296,7 @@ Each chapter includes:
 
 - **Meeting Notes** — Lightweight documentation of discussions and decisions.
 - **Rotations** — Each engineer is expected to give one Lightning Talk and one Mini Training per year. Chapters own the rotation and timing.
-- **Signups** — Signup sheets live in each chapter and are linked in `meeting-format-and-talk-signups.md`.
+- **Signups** — Signup sheets live in each chapter and are linked in `meeting-format-&-talk-signups.md`.
 - **Contribution Logs** — Each chapter maintains a log of engineer talks to support fair rotation — helping avoid back-to-back scheduling and keeping the rhythm healthy.
 
 A separate **Leadership Rotation** complements this system. Instead of joining all seven chapters, executives (e.g. CEO, President, Product, Growth, Engineering) rotate into a single shared sync — bringing alignment without repetition.
@@ -318,44 +317,44 @@ engineering/
 │   ├── ai/
 │   │   ├── index.md
 │   │   ├── meeting-notes/
-│   │   ├── roster-and-contribution-logs
+│   │   ├── roster-&-contribution-logs
 │   │   └── talk-signups.md
 │   ├── backend/
 │   │   ├── index.md
 │   │   ├── meeting-notes/
-│   │   ├── roster-and-contribution-logs
+│   │   ├── roster-&-contribution-logs
 │   │   └── talk-signups.md
 │   ├── data/
 │   │   ├── index.md
 │   │   ├── meeting-notes/
-│   │   ├── roster-and-contribution-logs
+│   │   ├── roster-&-contribution-logs
 │   │   └── talk-signups.md
 │   ├── frontend/
 │   │   ├── index.md
 │   │   ├── meeting-notes/
-│   │   ├── roster-and-contribution-logs
+│   │   ├── roster-&-contribution-logs
 │   │   └── talk-signups.md
 │   ├── mobile/
 │   │   ├── index.md
 │   │   ├── meeting-notes/
-│   │   ├── roster-and-contribution-logs
+│   │   ├── roster-&-contribution-logs
 │   │   └── talk-signups.md
 │   ├── platform/
 │   │   ├── index.md
 │   │   ├── meeting-notes/
-│   │   ├── roster-and-contribution-logs
+│   │   ├── roster-&-contribution-logs
 │   │   └── talk-signups.md
 │   └── security/
 │       ├── index.md
 │       ├── meeting-notes/
-│       ├── roster-and-contribution-logs.md
+│       ├── roster-&-contribution-logs.md
 │       └── talk-signups.md
 │
 ├── architecture/
 │   ├── index.md
 │   ├── architect-compass.md
 │   ├── council.md
-│   ├── data-tracking-and-flow/
+│   ├── data-tracking-&-flow/
 │   │   ├── index.md
 │   │   ├── ai.md
 │   │   ├── be.md
@@ -364,7 +363,7 @@ engineering/
 │   │   ├── mobile.md
 │   │   ├── platform.md
 │   │   └── security.md
-│   ├── dependency-health-and-deployment/
+│   ├── dependency-health-&-deployment/
 │   │   ├── index.md
 │   │   ├── ai.md
 │   │   ├── be.md
@@ -391,7 +390,7 @@ engineering/
 │   │   ├── mobile.md
 │   │   ├── platform.md
 │   │   └── security.md
-│   ├── tooling-and-terminology/
+│   ├── tooling-&-terminology/
 │   │   ├── index.md
 │   │   ├── ai.md
 │   │   ├── be.md
@@ -400,7 +399,7 @@ engineering/
 │   │   ├── mobile.md
 │   │   ├── platform.md
 │   │   └── security.md
-│   └── visibility-and-alerting/
+│   └── visibility-&-alerting/
 │       ├── index.md
 │       ├── ai.md
 │       ├── be.md
@@ -412,15 +411,15 @@ engineering/
 │
 ├── framework/
 │   ├── index.md
-│   ├── culture-and-growth.md
+│   ├── culture-&-growth.md
 │   ├── engineering-support-directory.md
 │   ├── engineering-training-material.md
-│   ├── initiatives-and-ownership.md
-│   ├── meeting-format-and-talk-signups.md
+│   ├── initiatives-&-ownership.md
+│   ├── meeting-format-&-talk-signups.md
 │   ├── mentoring-corner.md
 │   ├── migration-log.md
 │   ├── review-cadence.md
-│   └── principles-and-direction.md
+│   └── principles-&-direction.md
 ```
 
 ---
