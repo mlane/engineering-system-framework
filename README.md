@@ -148,12 +148,12 @@ Before adopting a tool, process, or major shift, ask:
 Tracks key initiatives that advance the organization’s systems, visibility, and long-term health.
 Each initiative is tied to a clear **owner**, **purpose**, and **review cadence** — but implementation details remain flexible.
 
-| Initiative                              | Status      | Owner        | Domain(s) | Source               |
-| --------------------------------------- | ----------- | ------------ | --------- | -------------------- |
-| Dependency Health                       | In Progress | Marcus Lane  | BE, FE    | https://{ticketLink} |
-| ImageData Field Deprecation & Migration | In Progress | John Soon    | BE        | https://{ticketLink} |
-| Observability Setup                     | In Progress | Marcus Lane  | FE        | https://{ticketLink} |
-| Standardization (Phase 1) – Style Guide | In Progress | @fpregnolato | Mobile    | https://{ticketLink} |
+| Initiative                              | Status      | Owner       | Domain(s) | Source               |
+| --------------------------------------- | ----------- | ----------- | --------- | -------------------- |
+| Dependency Health                       | In Progress | Marcus Lane | BE, FE    | https://{ticketLink} |
+| ImageData Field Deprecation & Migration | In Progress | John Soon   | BE        | https://{ticketLink} |
+| Observability Setup                     | In Progress | Marcus Lane | FE        | https://{ticketLink} |
+| Standardization (Phase 1) – Style Guide | In Progress | Federico    | Mobile    | https://{ticketLink} |
 
 > The table is a **living layer**, not a dashboard.
 > Its purpose is to create accountability and visibility, not bureaucracy.
