@@ -1,28 +1,28 @@
 # Engineering System Framework
 
 A living **meta-framework** for scaling clarity, consistency, and long-term alignment across engineering organizations.  
-Designed to unify principles, rhythms, and documentation through a shared, evolving structure — adaptable to any company, any size.
+Designed to unify principles, rhythms, and documentation through a shared, evolving structure - adaptable to any company, any size.
 
 This repository is a **blueprint**, not a prescription.  
-It provides structure and language so organizations can define their systems — together.
+It provides structure and language so organizations can define their systems - together.
 
-> This framework does not replace existing documentation — it provides a focused space for shared decision frameworks, initiative tracking, and platform-specific guidance.
+> This framework does not replace existing documentation - it provides a focused space for shared decision frameworks, initiative tracking, and platform-specific guidance.
 
 ---
 
 ## What This Means
 
-The ESF is a living framework that aligns how we **build**, **scale**, and **grow** — across domains, across time.  
+The ESF is a living framework that aligns how we **build**, **scale**, and **grow** - across domains, across time.  
 It surfaces principles to the engineering level through three enduring pillars: Architecture & Systems, Framework & Cadence, and Chapters & Communication.  
-It’s not a restart. It’s a reset — a system that remembers, so engineering stays visible, intentional, and durable.
+It’s not a restart. It’s a reset - a system that remembers, so engineering stays visible, intentional, and durable.
 
 ---
 
 ## What’s Expected of Engineers
 
-Engineers are expected to build with intent — not just code, but continuity.  
+Engineers are expected to build with intent - not just code, but continuity.  
 This means surfacing gaps, documenting decisions, and linking source as you work.  
-You’re not just contributing — you’re shaping a system that lasts.
+You’re not just contributing - you’re shaping a system that lasts.
 
 ## Core Principles
 
@@ -30,10 +30,10 @@ You’re not just contributing — you’re shaping a system that lasts.
 ✅ **Living Documentation** – Everything evolves through review, not decay.  
 ✅ **Consistency with Flexibility** – Guardrails, not gatekeeping.  
 ✅ **Simplicity Scales** – Fewer rules, stronger rhythm.  
-✅ **Design for Security, Scalability, and Simplicity — not trends.**
+✅ **Design for Security, Scalability, and Simplicity - not trends.**
 
 **What “Living Documentation” means**  
-Documentation is part of the system — not an afterthought.
+Documentation is part of the system - not an afterthought.
 
 Every meaningful change (to code, process, or principle) should update its corresponding doc in the same pull request.
 
@@ -45,14 +45,14 @@ This keeps truth centralized, prevents decay, and ensures the framework evolves 
 
 ## Pillar Values
 
-Each pillar in the Engineering System Framework is grounded in a single, shared-value quote — guiding how it operates and evolves:
+Each pillar in the Engineering System Framework is grounded in a single, shared-value quote - guiding how it operates and evolves:
 
 - **Architecture & Systems**
-  _“We design for security, scalability, and simplicity — not trends.”_
+  _“We design for security, scalability, and simplicity - not trends.”_
 - **Framework & Cadence**
-  _“We scale through rhythm, ownership, and principle — not process.”_
+  _“We scale through rhythm, ownership, and principle - not process.”_
 - **Chapters & Communication**
-  _“We grow through shared learning, clarity, and visibility — not performance.”_
+  _“We grow through shared learning, clarity, and visibility - not performance.”_
 
 <img width="1536" height="1024" alt="6B92C537-39CE-4C69-9D21-DBF2199F2DD6" src="https://github.com/user-attachments/assets/117927ec-8a00-4fd8-aa58-fff18eab4e79" />
 
@@ -63,7 +63,7 @@ Each pillar in the Engineering System Framework is grounded in a single, shared-
 The framework is designed to scale across any organization size or structure.
 Most engineering orgs include some or all of the following domains, each connected through shared principles and rhythms.
 
-> Note: In some orgs, DevOps and Infrastructure may operate as shared advisors across multiple domains rather than owning a standalone chapter. That’s fully valid — inclusion and representation can take many forms.
+> Note: In some orgs, DevOps and Infrastructure may operate as shared advisors across multiple domains rather than owning a standalone chapter. That’s fully valid - inclusion and representation can take many forms.
 
 | Domain                        | Purpose                                                                                                           |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +75,7 @@ Most engineering orgs include some or all of the following domains, each connect
 | **Platform / Infrastructure** | Provides tooling, CI/CD, and operational reliability. Enables autonomy and system-wide consistency.               |
 | **Security**                  | Protects systems, data, and user trust. Defines policies, audits risk, and reinforces safe development practices. |
 
-> Not every company will have all domains — and that’s expected.
+> Not every company will have all domains - and that’s expected.
 > The framework scales naturally: smaller teams start with a few, larger orgs formalize the rest over time.
 
 ---
@@ -86,7 +86,7 @@ To reduce confusion, we explicitly distinguish between Domains (architectural bo
 
 | Term        | Purpose                                    | Participation                                    | Notes                                                                             |
 | ----------- | ------------------------------------------ | ------------------------------------------------ | --------------------------------------------------------------------------------- |
-| **Team**    | Executes scoped product or system outcomes | Dynamic contributors (EMs, PMs, ICs, Architects) | Formed around effort — not a fixed structural layer                               |
+| **Team**    | Executes scoped product or system outcomes | Dynamic contributors (EMs, PMs, ICs, Architects) | Formed around effort - not a fixed structural layer                               |
 | **Domain**  | Defines technical ownership boundaries     | Domain Architect                                 | Used in systems, architecture, and cross-domain initiatives                       |
 | **Chapter** | Drives community learning & visibility     | Chapter Lead or Domain Architect                 | Used for rituals like mini trainings, lightning talks, and shared practice growth |
 
@@ -101,9 +101,9 @@ The following sections define the foundation of how Engineering aligns, evolves,
 
 ### 1. Principles & Direction
 
-> We design for security, scalability, and simplicity — not trends.
+> We design for security, scalability, and simplicity - not trends.
 
-This section defines the **engineering mindset** — the principles that guide how we build and evolve systems.
+This section defines the **engineering mindset** - the principles that guide how we build and evolve systems.
 It focuses on clarity, maintainability, and sustainable growth.
 
 **Core Tenets**
@@ -117,7 +117,7 @@ It focuses on clarity, maintainability, and sustainable growth.
 - **Team clarity matters.**
   If it’s hard to explain, it’s too complex.
 - **Change must be justified.**
-  Adopt new tools to solve real problems — not hypothetical ones.
+  Adopt new tools to solve real problems - not hypothetical ones.
 
 **Decision Filters**
 
@@ -139,14 +139,14 @@ Before adopting a tool, process, or major shift, ask:
 - Lead validation and sandboxed experimentation.
 - Empower others to build within safe boundaries.
 
-> Architecture is not about control — it’s about continuity.
+> Architecture is not about control - it’s about continuity.
 
 ---
 
 ### 2. Initiatives & Ownership
 
 Tracks key initiatives that advance the organization’s systems, visibility, and long-term health.
-Each initiative is tied to a clear **owner**, **purpose**, and **review cadence** — but implementation details remain flexible.
+Each initiative is tied to a clear **owner**, **purpose**, and **review cadence** - but implementation details remain flexible.
 
 | Initiative                              | Status      | Owner       | Domain(s) | Source               |
 | --------------------------------------- | ----------- | ----------- | --------- | -------------------- |
@@ -163,7 +163,7 @@ Each initiative is tied to a clear **owner**, **purpose**, and **review cadence*
 ### 3. Gotchas & Migration Log
 
 Captures significant engineering events, migrations, or unexpected issues that required architectural visibility or coordination.
-This log helps teams understand _why_ a change happened — not just _what_ changed.
+This log helps teams understand _why_ a change happened - not just _what_ changed.
 
 | Log                                                                             | Date             | Logged By   | Domain(s) |
 | ------------------------------------------------------------------------------- | ---------------- | ----------- | --------- |
@@ -179,17 +179,17 @@ Each entry should include:
 - **References** (links to Slack threads, PRs, or related docs)
 
 > This log complements “Initiatives & Ownership.”
-> Initiatives define planned evolution — the Gotchas & Migration Log records what we learned while evolving.
+> Initiatives define planned evolution - the Gotchas & Migration Log records what we learned while evolving.
 
 ---
 
 ### 4. Health & Maintenance
 
-Defines how organizations stay healthy over time — through maintenance, automation, and review.
+Defines how organizations stay healthy over time - through maintenance, automation, and review.
 It’s not about perfection; it’s about continuous, visible improvement.
 
 - **Dependencies:** Review quarterly. Regular upgrades prevent drift and reduce the need for risky rewrites later.
-- **Documentation:** Keep alive — update as part of normal work.
+- **Documentation:** Keep alive - update as part of normal work.
 - **Audits:** Schedule semi-annually to catch drift or tech debt early.
 - **Automation:** Use tools to enforce consistency and detect risk.
 
@@ -209,7 +209,7 @@ Visibility ensures that information flows from systems → people → decisions.
 - **Ownership:** Every signal must trace to a responsible team.
 - **Continuity:** Review signal noise quarterly; remove stale or redundant alerts.
 
-> Visibility isn’t about blame — it’s about awareness and response.
+> Visibility isn’t about blame - it’s about awareness and response.
 
 ---
 
@@ -225,9 +225,9 @@ Every engineer should think critically about _why_ something exists, not just _h
 - Break projects into small, testable pieces.
 - Deprioritize unnecessary polish (80/20 rule).
 - Document uncertainty and seek clarity.
-- Refactor when already in context — don’t defer small debt.
+- Refactor when already in context - don’t defer small debt.
 
-> We don’t just build code — we build systems that last.
+> We don’t just build code - we build systems that last.
 
 **Shared Architectural Ownership**
 
@@ -237,7 +237,7 @@ Architecture is collective. Even with leads, everyone contributes to long-term s
 - Every feature reinforces shared standards.
 - Every engineer is empowered to propose improvements.
 
-> Good architecture is invisible — it quietly improves velocity for everyone.
+> Good architecture is invisible - it quietly improves velocity for everyone.
 
 **Mentorship & Onboarding**
 
@@ -245,7 +245,7 @@ Architecture is collective. Even with leads, everyone contributes to long-term s
 - Encourage pair sessions for cross-team learning.
 - Capture insights as living documentation, not static wikis.
 
-> Culture is the heartbeat of the system — maintain it like code.
+> Culture is the heartbeat of the system - maintain it like code.
 
 **Shared Learning & Visibility**
 
@@ -273,13 +273,13 @@ To scale architectural clarity and ownership, the system defines three levels:
 | **Domain**   | **Domain Architect**      | Owns technical direction within a domain (e.g., BE, Data, FE, Mobile).                                |
 | **Product**  | **Domain Council Member** | Supports architectural quality and direction within a specific product team.                          |
 
-> This hierarchy ensures decisions scale from the ground up — while remaining aligned across Engineering.
+> This hierarchy ensures decisions scale from the ground up - while remaining aligned across Engineering.
 
 ---
 
 ## Architecture & Systems Layer
 
-Defines how the shared framework translates into concrete systems — across domains (e.g., BE, Data, FE, Mobile).
+Defines how the shared framework translates into concrete systems - across domains (e.g., BE, Data, FE, Mobile).
 
 - **Architect Compass:** How we evaluate tradeoffs and balance constraints.
 - **Dependency Health & Deployment:** Safe, maintainable, and automated release cycles.
@@ -293,16 +293,16 @@ Each subfolder (`/ai`, `/be`, `/data`, `/fe`, `/mobile`, `/platform`, `/security
 
 ## Chapters Layer
 
-Holds team-level rhythm and communication artifacts — not formal documentation.
+Holds team-level rhythm and communication artifacts - not formal documentation.
 
 Each chapter includes:
 
-- **Meeting Notes** — Lightweight documentation of discussions and decisions.
-- **Rotations** — Each engineer is expected to give one Lightning Talk and one Mini Training per year. Chapters own the rotation and timing.
-- **Signups** — Signup sheets live in each chapter and are linked in `meeting-format-and-talk-signups.md`.
-- **Contribution Logs** — Each chapter maintains a log of engineer talks to support fair rotation — helping avoid back-to-back scheduling and keeping the rhythm healthy.
+- **Meeting Notes** - Lightweight documentation of discussions and decisions.
+- **Rotations** - Each engineer is expected to give one Lightning Talk and one Mini Training per year. Chapters own the rotation and timing.
+- **Signups** - Signup sheets live in each chapter and are linked in `meeting-format-and-talk-signups.md`.
+- **Contribution Logs** - Each chapter maintains a log of engineer talks to support fair rotation - helping avoid back-to-back scheduling and keeping the rhythm healthy.
 
-A separate **Leadership Rotation** complements this system. Instead of joining all seven chapters, executives (e.g. CEO, President, Product, Growth, Engineering) rotate into a single shared sync — bringing alignment without repetition.
+A separate **Leadership Rotation** complements this system. Instead of joining all seven chapters, executives (e.g. CEO, President, Product, Growth, Engineering) rotate into a single shared sync - bringing alignment without repetition.
 
 > Chapter learning is local. Executive rhythm is shared. Both matter.
 
