@@ -427,6 +427,6 @@ engineering/
 
 ---
 
-© 2025 Marcus Lane.
+© 2026 Marcus Lane.
 Shared under the Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0).
 See https://creativecommons.org/licenses/by-nc/4.0/ for full license text.
